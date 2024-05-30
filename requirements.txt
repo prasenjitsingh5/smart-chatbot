@@ -5,5 +5,3 @@ torch
 spacy
 pyyaml
 pytest
-openai
- 

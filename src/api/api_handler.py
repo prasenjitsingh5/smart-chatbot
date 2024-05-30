@@ -6,8 +6,6 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 from src.chatbot import generate_response
-from src.nlp_utils import preprocess_text
-from src.nlu_utils import classify_text
 
 app = Flask(__name__)
 

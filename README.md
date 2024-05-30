@@ -1,4 +1,3 @@
- 
 # Smart Chatbot
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -24,11 +23,11 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-The **Smart Chatbot** is an intelligent conversational agent designed with Natural Language Processing (NLP) and Natural Language Understanding (NLU) capabilities. It leverages OpenAI's GPT-3.5 model to provide smart responses and can be easily integrated into websites or Microsoft Teams.
+The **Smart Chatbot** is an intelligent conversational agent designed with Natural Language Processing (NLP) and Natural Language Understanding (NLU) capabilities. It leverages models from Hugging Face's Transformers library to provide smart responses and can be easily integrated into websites or Microsoft Teams.
 
 ## Features
 - **NLP and NLU Capabilities:** Preprocess and understand user inputs.
-- **Intelligent Responses:** Generate human-like responses using GPT-3.5.
+- **Intelligent Responses:** Generate human-like responses using Hugging Face models.
 - **API-Driven:** Expose endpoints for easy integration.
 - **Deployable:** Ready for deployment on various platforms including websites and Microsoft Teams.
 - **Configurable:** Easy to configure with a simple YAML file.
