@@ -1,0 +1,9 @@
+flask
+requests
+transformers
+torch
+spacy
+pyyaml
+pytest
+openai
+ 
